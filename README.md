@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Convenio-UTE-FING-ORT/OPF/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Convenio-UTE-FING-ORT/OPF/main)
 
 # Optimal Power Flow
 
