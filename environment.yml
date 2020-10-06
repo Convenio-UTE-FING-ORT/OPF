@@ -1,0 +1,7 @@
+name: OPF
+
+dependencies:
+        - python=3.7
+        - numpy
+        - cvxpy
+        - matplotlib
